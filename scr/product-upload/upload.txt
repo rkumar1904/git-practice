@@ -1,1 +1,3 @@
-Bulk product upload: accepts a CSV of products
+Bulk product upload: accepts a CSV of products 
+
+added condition for large files
